@@ -72,8 +72,3 @@ Per agevolare la revisione, le sezioni principali del protocollo sono evidenziat
 * `[PUNTO 4]` Arresto immediato dell'elezione alla ricezione di `COORDINATOR`.
 
 ---
-
-## 5. Video Dimostrativo
-
-Il video dimostrativo senza tagli (mostrante l'esecuzione simultanea dei 5 terminali, l'elezione di `P5`, il guasto simulato tramite `Ctrl+C` e la rielezione di `P4`) è disponibile al seguente link:
-`[Inserisci qui il link al video]`
