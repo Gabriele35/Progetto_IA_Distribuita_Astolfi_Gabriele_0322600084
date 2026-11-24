@@ -72,3 +72,6 @@ Per agevolare la revisione, le sezioni principali del protocollo sono evidenziat
 * `[PUNTO 4]` Arresto immediato dell'elezione alla ricezione di `COORDINATOR`.
 
 ---
+## 5. Video Dimostrativo
+
+Il video dimostrativo integrale (senza tagli, con tutti e 5 i terminali visibili simultaneamente e log con timestamp delle fasi di prima elezione, guasto di P5 e rielezione di P4) è disponibile direttamente in questo repository nel file Video_Dimostrativo_Astolfi_Gabriele.mov
